@@ -1,7 +1,7 @@
 ---
 title: 'How to set up a github page'
 date: 2024-04-12
-permalink: /posts/the-first-post
+permalink: /posts/How-to-set-up-a-github-page
 tags:
   - cool posts
   - github page
