@@ -1,5 +1,5 @@
 ---
-permalink: /research
+permalink: /pages/research
 layout: single
 title: "My research"
 excerpt: "research"
