@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "{{title}}",
+  "literatureNoteFolder": "100 Reference notes",
+  "literatureNoteContentTemplate": "---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\nread now: {{URL}}; {{zoteroSelectURL}}\n---\n\n## Abstract\n\n {{abstract}}\n\n\n\n## What have been said\n\n\n## The problems.\n",
+  "markdownCitationTemplate": "[@{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "@{{citekey}}",
+  "citationExportPath": "/Users/xiaowangzi/Documents/我的文库.bib"
+}

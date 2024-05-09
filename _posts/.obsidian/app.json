@@ -1,0 +1,11 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "/",
+  "attachmentFolderPath": "Files",
+  "promptDelete": false,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "vimMode": true,
+  "livePreview": true,
+  "useTab": false
+}

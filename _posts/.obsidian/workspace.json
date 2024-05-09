@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "0a0069132732d750",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1153c63823e68d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "affffd6f1b1dd7ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Regarding a Bug, Slurm can't output content into log file in time.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "712272c417974391",
+    "type": "split",
+    "children": [
+      {
+        "id": "ffd5ddb160c20bc8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c234c59bfbffab35",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4411ad4e0bca886d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b71be941b27b7f8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "eeafe3a03010b10d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "right": {
+    "id": "2bcfb219209aa2a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a967340651773eb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "980551cf2a9cff40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Regarding a Bug, Slurm can't output content into log file in time.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da72de1d7163db03",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Regarding a Bug, Slurm can't output content into log file in time.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3681cd63ed66a0c4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e5a09bdd4ef0ae9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Regarding a Bug, Slurm can't output content into log file in time.md"
+              }
+            }
+          },
+          {
+            "id": "934e98c7e9cdd0dd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "affffd6f1b1dd7ca",
+  "lastOpenFiles": [
+    "2024-04-12-How-to-set-up-a-github-page.md",
+    "Regarding a Bug, Slurm can't output content into log file in time.md",
+    "2024-04-11-first-post.md",
+    "Regarding a Bug-Slurm can't output content into log file in time.md",
+    "tresat.md",
+    "test-post.md",
+    "Templates/post_temp.md",
+    "Templates",
+    "000 Zettelkasten/Git filtrates bit file.md",
+    "000 Zettelkasten/服务器有关的知识.md",
+    "000 Zettelkasten/为什么使用dot exec 而不是直接使用exec.md",
+    "为什么使用.",
+    "000 Zettelkasten/python 中的 import.md",
+    "300 Experiment Recording/240423.md",
+    "300 Experiment Recording/20240404.md",
+    "000 Zettelkasten/github疑难问题解决方法.md",
+    "000 Zettelkasten/Git.md",
+    "Templates/Experiment-template.md",
+    "000 Zettelkasten/国家体系的稳定基础.md",
+    "300 Experiment Recording",
+    "000 Zettelkasten/官僚体制.md",
+    "000 Zettelkasten/关于思想统一.md",
+    "000 Zettelkasten/关于皮层数据生成图片的论文改进.md",
+    "000 Zettelkasten/关于历史对人民记忆的涂抹.md",
+    "000 Zettelkasten/工作与非工作的探索.md",
+    "000 Zettelkasten/工具.md",
+    "000 Zettelkasten/分税制改革.md",
+    "000 Zettelkasten/非暴力沟通的典型方式.md",
+    "000 Zettelkasten/动词分词.md",
+    "Files/IMG_5458.jpeg",
+    "Files/IMG_5461.jpeg",
+    "Files/IMG_5464.jpeg",
+    "Files/IMG_5470.jpeg",
+    "Files/Pasted image 20230720124021.png",
+    "Files/Pasted image 20230721105453.png",
+    "Files/Pasted image 20230823103706.png",
+    "Files/Pasted image 20230823103758.png",
+    "Files/Pasted image 20230823111823.png",
+    "Files/Pasted image 20230823141049.png",
+    "Files/symbols.htm.pdf",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "Files/symbols.htm",
+    "PaperCitation/My-zotero-files.json",
+    "PaperCitation/我的文库.json",
+    "PaperCitation/我的文库.bib",
+    "PaperCitation",
+    "未命名文件夹",
+    "未命名 2.canvas"
+  ]
+}
