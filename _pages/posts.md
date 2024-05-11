@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /posts
 layout: posts
 title: "Posts"
 excerpt: "My thoughts"
