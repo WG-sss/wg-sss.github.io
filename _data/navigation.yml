@@ -5,9 +5,9 @@ main:
   - title: "About"
     url: /
   - title: "Research"
-    url: /research/
+    url: /research
   - title: "Posts"
-    url: /posts/
+    url: /posts
   # - title: "Collections"
     # url: /collection-archive/
   # - title: "Sitemap"
