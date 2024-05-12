@@ -1,8 +1,11 @@
 ---
-title: 2024-05-12
+title: some key concepts in slurm
 date: 2024-05-12
 permalink: /posts/some-key-concepts-in-slurm
-tags: [slurm shell]
+tags: 
+    - slurm 
+    - shell
+    - Linux
 ---
 Submitting a computational job by SLURM, there are some key parameters, which confused me a lot time, so, I investigate those concepts today and write down here.
 
@@ -40,7 +43,7 @@ And then, several tasks were submitted through  `srun` command.
 
 Firstly, it is important to clarify that the entire script submits what is called a `job`. A `job` corresponds to one or multiple tasks, where a task is a process or multiple threads within a parallel task. Each task will utilize one or multiple CPU cores.
 
-![[slurm-workflow.jpg]]
+![[./Attachments/slurm-workflow.jpg]]
 
 One `task` corresponds to one `Process`.
 
@@ -51,4 +54,4 @@ It is important to note that if multiple tasks are submitted when requesting res
 
 # Reference
 
-[SLURM使用指南](https://zhuanlan.zhihu.com/p/356415669)
+[zhihu: Tutorial of SLURM](https://zhuanlan.zhihu.com/p/356415669)
