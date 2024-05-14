@@ -43,7 +43,8 @@ And then, several tasks were submitted through  `srun` command.
 
 Firstly, it is important to clarify that the entire script submits what is called a `job`. A `job` corresponds to one or multiple tasks, where a task is a process or multiple threads within a parallel task. Each task will utilize one or multiple CPU cores.
 
-![[./Attachments/slurm-workflow.jpg]]
+![slurm](/_posts/Attachments/slurm-workflow.svg)
+
 
 One `task` corresponds to one `Process`.
 
