@@ -1,4 +1,5 @@
 ---
+layout: post
 title: What is an Environment Variable and Slurm how to handle it.
 date: 2024-05-14
 permalink: /posts/environment-variable

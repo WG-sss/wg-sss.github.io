@@ -1,34 +1,45 @@
 ---
+layout: about
+title: about
 permalink: /
-layout: home
-title: ""
-excerpt: "About me"
-author_profile: true
-redirect_from: 
+subtitle: I think, therefore I am.
+
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <!-- <p>555 your office number</p> -->
+    <!-- <p>123 your address street</p> -->
+    <p>Beijing, China</p>
+
+news: true # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true # includes social icons at the bottom of the page
 ---
 <meta charset="utf-8">
-
 # Biography
-Hi &#129303;! I am a first-year Ph.D. student at Hong Kong University of Science and Technology, advised by [Prof. Ling Pan](https://ling-pan.github.io/). 
-
-I received my Bachelor's degree in computer science at Shanghai Jiao Tong University in June 2023, advised by [Prof. Weinan Zhang](http://wnzhang.net/) as a member of [APEX Lab](https://apex.sjtu.edu.cn/). Previously, I work closely with [Dr. Chenjia Bai](https://baichenjia.github.io/) as an intern at Shanghai AI Lab.
+&#129303;Hi! I am currently a M.S. student at Beijing Normal University, advised by [Prof. Bailu Si](https://sss.bnu.edu.cn/yjszsztw/bssds/sbl/index.htm).
 
 # Research Interests
-My goal is to develop an intelligent decision-making system that possesses optimality, generalizability, interpretability and robustness. To achieve this, I primarily focus on &#129300;:
-* Generalist Reinforcement Learning and its application in the real world.
-* Scalability and sample efficiency in Reinforcement Learning.
-* Effective planning with Large Language Models (LLMs).
 
- &#128522; Feel free to contact me with <u>email</u> (<a href="haoran.he@connect.ust.hk">haoran.he@connect.ust.hk</a>) or <u>wechat</u> (hhr_tinner).
+Broadly speaking, my research goal and interest is to leverage mathematics and modern AI to comprehend the computational processes of the brain, and if possiable bestow intelligence upon machines, which means creating Brain-inspired AI. 
+Specifically, during my master's study advised by Prof.Si, I have learned how to consruct a mathematics model defining Place Cell and Grid Cell.
+Additionally, I am focused on developing a Deep Net to extract insights from high-throughput biomedical data like fMRI for get the insight of how brain activity evovled. 
+
+My research points focu on 🤔:
+* Computational model of neuron.
+* Generative AI.
+* Brain computer interface.
+
+😊 Feel free to contact me with [email](mailto:wanggao.sss@mail.bnu.edu.cn). 
 
 # &#128293; News
-<strong>[Jan. 2024]</strong> One paper has been accepted by ICRA 2024!
 
-<strong>[Sep. 2023]</strong> &#127881; Our paper ([*MTDiff*](https://arxiv.org/abs/2305.18459)) has been accepted by NeurIPS 2023.
+# 💬 Talks
+- Synaptic Plasticity Models, 2024, Beijing
 
-<strong>[Sep. 2023]</strong> I gave a [talk](https://www.bilibili.com/video/BV1hu4y1y7sC/?spm_id_from=333.999.0.0) at RLChina.
-
-<strong>[Jul. 2023]</strong> &#127881; I received my Bachelor degree from Shanghai Jiao Tong University.
 
 # 📖 Service
-- Reviewer: TPAMI, ICML 2024
+- Reviewer: Cognitive Neurodynamics (CODY) 2024
+
